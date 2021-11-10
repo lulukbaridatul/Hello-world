@@ -1,0 +1,22 @@
+body {
+	background-image : url("/Latihan HTML/gambar html.png");
+	background-size: cover;
+	font-family : Lucida console;
+	background-repeat : no-repeat;
+	background-attachment: fixed;
+	height :100%
+	background-position: center;
+	margin-top: 200px; 
+	margin-bottom: 100 px;
+	margin-right : 150 px;
+	margin-left : 500px;
+	}
+h1 {
+	color : DarkSlateGrey;
+}
+p{
+	ul.a {
+		list-style-type : bullet;
+	color: DarkSlateBlue;
+	}
+}
